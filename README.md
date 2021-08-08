@@ -24,3 +24,5 @@ If you cannot transfer cryptocurrency directly, you can use the [exchangers](bes
 ## Donations:
 
 [0xbc7d8d7fb6ccc0963a7bf5eb41faf8e4bb546740](https://etherscan.io/address/0xbc7d8d7fb6ccc0963a7bf5eb41faf8e4bb546740)
+
+If you want to exceed license permissions, email me.
