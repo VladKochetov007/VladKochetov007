@@ -1,16 +1,22 @@
-### Hi there 👋
+Hi 😀, my name is Vlad Kochetov, I am a 13-year-old programmer from Ukraine. 
 
-<!--
-**VladKochetov007/VladKochetov007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My favorite programming language is Python.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you want to contact me, you can write to me by email or telegram:
+
+  - email: `vladyslavdrrragonkoch@gmail.com`
+
+  - telegram: `@VladKochetov07`
+
+If you want to support me financially, then you can transfer cryptocurrency to my wallets:
+
+  - BTC: ```33BEsCUi1C3NbnoNda32z9S5pXdaHBq6gA```
+
+  - ETH ERC20: ```0x064fb4Dfe9c91913FE1847AAB04146b9757E4066```
+
+  - USDT ERC20: ```0xc33AfF803aCdf08a1D0b8B4939E75598aB2518c1```
+
+  - USDT TRC20: ```TDvegWDM7bvZthw8Z8Su6CsE8zasVGhWNa```
+
+If you cannot transfer cryptocurrency directly, you can use the [exchangers](bestchange.com)
