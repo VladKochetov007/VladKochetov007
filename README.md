@@ -1,4 +1,5 @@
 [![github stats](https://github-readme-stats.vercel.app/api?username=VladKochetov007&theme=merko&hide_border=true)](https://github.com/VladKochetov007)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladKochetov007&layout=compact&theme=merko&hide_border=true)](https://github.com/VladKochetov007)
 
 Hi 😀, my name is Vlad Kochetov, I am a 13-year-old programmer from Ukraine. 
 
