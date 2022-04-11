@@ -21,6 +21,8 @@ If you want to support me financially, then you can transfer cryptocurrency to m
 
   - USDT TRC20: ```TDvegWDM7bvZthw8Z8Su6CsE8zasVGhWNa```
 
+  - LTC: ```MLcCsLVDQQcVcBh5wRCignZ7a9m1NyuPvW```
+
 If you cannot transfer cryptocurrency directly, you can use the [exchangers](https://www.bestchange.com)
 
 ## Donations:
