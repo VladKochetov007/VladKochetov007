@@ -1,7 +1,7 @@
 [![github stats](https://github-readme-stats.vercel.app/api?username=VladKochetov007&theme=merko&hide_border=true)](https://github.com/VladKochetov007)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladKochetov007&layout=compact&theme=merko&hide_border=true)](https://github.com/VladKochetov007)
 
-Hi, I'm Vlad Kochetov, 14-year-old programmer from Ukraine. 
+Hi, I'm [Vlad Kochetov](https://www.linkedin.com/in/vlad-kochetov-414281238/), 14-year-old programmer from Ukraine. 
 
 My favorite programming language is Python.
 
