@@ -25,9 +25,5 @@ If you want to support me financially, then you can transfer cryptocurrency to m
 
 If you cannot transfer cryptocurrency directly, you can use the [exchangers](https://www.bestchange.com)
 
-## Donations:
-
-[0xbc7d8d7fb6ccc0963a7bf5eb41faf8e4bb546740](https://etherscan.io/address/0xbc7d8d7fb6ccc0963a7bf5eb41faf8e4bb546740)
-
 
 ![image](IMG_9078.PNG)
