@@ -3,7 +3,7 @@
 
 [![English](https://img.shields.io/badge/English-B2-blue.svg)](https://shields.io/)
 
-Hi, I'm [Vlad Kochetov](https://www.linkedin.com/in/vlad-kochetov-414281238/), 14-year-old programmer from Ukraine. 
+Hi, I'm [Vlad Kochetov](https://www.linkedin.com/in/vlad-kochetov-414281238/), 15-year-old programmer from Ukraine. 
 
 My favorite programming language is Python.
 
