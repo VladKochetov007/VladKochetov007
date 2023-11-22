@@ -3,27 +3,17 @@
 
 Hi, I'm [Vlad Kochetov](https://www.linkedin.com/in/vlad-kochetov-414281238/), 16-year-old programmer from Ukraine. 
 
-My favorite programming language is Python. I'm also learning Go
+Python, Go developer. Currently, I'm delving into the fascinating realms of Machine Learning and optimization.
 
-If you want to contact me, you can write to me by email or telegram:
-
+If you'd like to connect or support my endeavors, here are my contact details:
   - email: `vladyslavdrrragonkoch@gmail.com`
-
   - telegram: `@VladKochetov07`
 
-If you want to support me financially, then you can transfer cryptocurrency to my wallets:
-
+If you're inclined to support me financially, feel free to transfer cryptocurrency to the following wallets:
   - BTC: ```bc1q0xyupk6jpzcru2l98lyj50knhfg2hs9jfk793n```
-
   - ETH ERC20: ```0xC36A55800DA0Dbb185A8244D8B19fF6D4d2bA1C2```
-
   - USDT ERC20: ```0xC36A55800DA0Dbb185A8244D8B19fF6D4d2bA1C2```
-
   - TRX: ```TBWAHzcpu9jpBYq73tsexQyygU89of2pm2```
-
   - DASH: ```Xdca2yika6ScHdeMFdcJDYLv1aTzZvm2CK```
-
-If you cannot transfer cryptocurrency directly, you can use the [exchangers](https://www.bestchange.com)
-
 
 ![image](IMG_9078.PNG)
