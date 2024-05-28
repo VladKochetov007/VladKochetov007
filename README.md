@@ -13,5 +13,6 @@ If you're inclined to support me financially, feel free to transfer cryptocurren
   - BTC: ```bc1q0xyupk6jpzcru2l98lyj50knhfg2hs9jfk793n```
   - ETH ERC20: ```0xC36A55800DA0Dbb185A8244D8B19fF6D4d2bA1C2```
   - USDT ERC20: ```0xC36A55800DA0Dbb185A8244D8B19fF6D4d2bA1C2```
+  - USDT TRC20: ```TBWAHzcpu9jpBYq73tsexQyygU89of2pm2```
   - TRX: ```TBWAHzcpu9jpBYq73tsexQyygU89of2pm2```
   - DASH: ```Xdca2yika6ScHdeMFdcJDYLv1aTzZvm2CK```
