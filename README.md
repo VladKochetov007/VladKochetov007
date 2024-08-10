@@ -3,7 +3,7 @@
 
 Hi, I'm [Vlad Kochetov](https://www.linkedin.com/in/vlad-kochetov-414281238/)!
 
-Python, Go developer. Currently, I'm delving into the fascinating realms of Machine Learning and optimization.
+Python, Go developer. Currently, I'm delving into the fascinating realms of Machine Learning, optimization methods and quantitative finance.
 
 If you'd like to connect or support my endeavors, here are my contact details:
   - email: `vladyslavdrrragonkoch@gmail.com`
